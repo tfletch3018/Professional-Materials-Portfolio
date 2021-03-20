@@ -1,0 +1,7 @@
+:root {
+    --orchid:#cc99ff;
+}
+
+body {
+    background-color: var(--orchid);
+}
