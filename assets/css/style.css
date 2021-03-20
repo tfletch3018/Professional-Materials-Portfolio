@@ -15,3 +15,20 @@ h1 {
     text-align: left;
     margin: -29px 0px -48px -128px;
 }
+
+h2 {
+    font-size: 24px;
+}
+
+.container-fluid-work {
+    width: 100%;
+    padding-right: 29px;
+    padding-left: 189px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+aside {
+    padding: 0px 0px 10px 10px;
+    font: 20px;
+}
