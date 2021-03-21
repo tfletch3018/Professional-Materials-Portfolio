@@ -1,10 +1,11 @@
 :root {
     --orchid:#cc99ff;
+    --smoke:#737373;
 }
 
 .nav {
     padding: 0px 10px 0px 0px;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 body {
@@ -14,12 +15,16 @@ body {
 h1 {
     text-align: left;
     margin: -29px 0px -48px -128px;
+    color: var(--orchid);
 }
 
 h2 {
     font-size: 24px;
+    color: var(--smoke);
 }
-
+p {
+    color: var(--smoke);
+}
 .container-fluid-work {
     width: 100%;
     padding-right: 29px;
@@ -28,7 +33,14 @@ h2 {
     margin-left: auto;
 }
 
-aside {
-    padding: 0px 0px 10px 10px;
-    font: 20px;
+.card-first {
+    background-image: url("../images/box.png");
+}
+
+.jumbotron {
+    background-color: var(--smoke);
+}
+
+.container-fluid-body {
+    background-color: var(--orchid);
 }
