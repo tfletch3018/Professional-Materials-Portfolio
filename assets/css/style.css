@@ -1,6 +1,9 @@
 :root {
     --orchid:#cc99ff;
     --smoke:#404040;
+    --cool:#b366ff;
+    --mint:#99ffcc;
+    --pale:#ffffff;
 }
 
 .nav {
@@ -8,9 +11,14 @@
     font-size: 22px;
 }
 a {
-    color: var(--orchid);
+    color: var(--cool);
+    text-shadow: 1px 1px var(--smoke);
+    box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--mint);
 }
-
+a:hover {
+    color: var(--mint);
+    box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--orchid);
+}
 body {
     font-family: 'Bree Serif', serif;
 }
@@ -18,15 +26,20 @@ body {
 h1 {
     text-align: left;
     margin: -29px 0px -48px -128px;
-    color: var(--orchid);
+    color: var(--mint);
+    text-shadow: 2px 2px var(--smoke);
+    
 }
 
-h2 {
+h2,
+h4 {
     font-size: 24px;
-    color: var(--smoke);
+    color: var(--mint);
+    text-shadow: 2px 2px var(--smoke);
 }
+
 p {
-    color: var(--smoke);
+    color: var(--pale);
 }
 .container-fluid-work {
     width: 100%;
@@ -69,4 +82,10 @@ p {
 .container-fluid-body {
     background-image: url("../images/background.png");
     border-radius: 5px;
+}
+
+.card-header,
+.card-title,
+.card-text {
+    color: var(--pale);
 }
