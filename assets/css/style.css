@@ -37,29 +37,36 @@ p {
 }
 
 .card-first {
-    background-image: url("../images/hello-i-m-nik-w3HtXHG5plY-unsplash.jpg");
+    background-image: url("../images/james-lee-O0SDcGZY8Ao-unsplash\ \(1\).jpg");
+    border-radius: 5px;  
 }
 
 .card-second {
     background-image: url("../images/nick-kane-ZSVusaft92A-unsplash.jpg");
+    border-radius: 5px;
 }
 
 .card-third {
     background-image: url("../images/iswanto-arif-OJ74pFtrYi0-unsplash.jpg");
+    border-radius: 5px;
 }
 
 .card-fourth {
     background-image: url("../images/cody-fitzgerald-lWJeGCgVbYI-unsplash.jpg");
+    border-radius: 5px;
 }
 
 .card-fifth {
     background-image: url("../images/jason-blackeye-pDYaVUmp0ak-unsplash.jpg");
+    border-radius: 5px;
 }
 
 .jumbotron {
     background-image: url("../images/background2.png");
+    border-radius: 5px;
 }
 
 .container-fluid-body {
     background-image: url("../images/background.png");
+    border-radius: 5px;
 }
