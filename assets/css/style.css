@@ -7,6 +7,9 @@
     padding: 0px 10px 0px 0px;
     font-size: 22px;
 }
+a {
+    color: var(--orchid);
+}
 
 body {
     font-family: 'Bree Serif', serif;
@@ -34,11 +37,27 @@ p {
 }
 
 .card-first {
-    background-image: url("../images/box.png");
+    background-image: url("../images/solen-feyissa-YLNGV8n-EaQ-unsplash.jpg");
+}
+
+.card-second {
+    background-image: url("../images/zachary-xu-vHRO0lHVl6w-unsplash.jpg");
+}
+
+.card-third {
+    background-image: url("../images/adolfo-felix-BXN16VVFEio-unsplash.jpg");
+}
+
+.card-fourth {
+    background-image: url("../images/duane-mendes-Yd90hPoqUAg-unsplash.jpg");
+}
+
+.card-fifth {
+    background-image: url("../images/james-lee-O0SDcGZY8Ao-unsplash.jpg");
 }
 
 .jumbotron {
-    background-color: var(--smoke);
+    background-image: url("../images/background2.png");
 }
 
 .container-fluid-body {
