@@ -61,5 +61,5 @@ p {
 }
 
 .container-fluid-body {
-    background-color: var(--orchid);
+    background-image: url("../images/background.png");
 }
