@@ -40,7 +40,7 @@ h4 {
 
 p {
     color: var(--pale);
-    text-shadow: 1px 1px var(--smoke);
+    text-shadow: 2px 2px var(--smoke);
 }
 .container-fluid-work {
     width: 100%;
