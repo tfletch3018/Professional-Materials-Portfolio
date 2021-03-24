@@ -42,6 +42,13 @@ p {
     color: var(--pale);
     text-shadow: 2px 2px var(--smoke);
 }
+
+img {
+    background-image: url("../images/background2.png");
+}
+.media-body {
+padding: 0px 0px 0px 70px;
+}
 .container-fluid-work {
     width: 100%;
     padding-right: 29px;
