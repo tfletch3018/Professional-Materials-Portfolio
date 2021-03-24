@@ -102,6 +102,7 @@ p {
 .btn-btn-default:hover,
 .btn-project:hover {
         color: var(--orchid);
+        background-image: url("../images/background2.png");
         box-shadow: inset 0px 0px 8px var(--smoke), 0 0 15px var(--orchid);
     }
 
