@@ -82,3 +82,5 @@ http://linkedin.com/in/tonya-fletcher-733a9450
 
 
 <img src="assets/images/Screenshot.png">
+
+<link href="LICENSE">
