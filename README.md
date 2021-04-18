@@ -1,11 +1,14 @@
 # Professional-Materials-Portfolio
-# Unit 08 Project 1 Homework: Professional Materials
+# 16 Project 2: Professional Materials
 
-## Requirements
-* Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
-* Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments.
-* Submit an updated resume
-* Submit an updated LinkedIn profile
+Now that you've built a full-stack web application and have another project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
+
+## Homework Requirements
+* Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
+
+* Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
+* Updated resume
+* Updated LinkedIn profile
 
 
 ## Instructions
@@ -14,31 +17,28 @@
 3. [Updated Resume](#updated-resume)
 4. [Updated LinkedIn](#updated-linkedin)
 
-
-## Updated Portfolio
 Your updated portfolio should:
-1. Display your full name, email, and phone number
+
+1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
 2. Have links to your GitHub profile and LinkedIn profile
 3. Have a link to a downloadable PDF of your resume
-4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
+4. Display at least 3 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following:
     * Project title
     * Link to the deployed version
     * Link to the GitHub repository
     * Screenshot of the deployed application
 5. Have a polished, mobile-responsive user interface.
 
-https://tfletch3018.github.io/Professional-Materials-Portfolio/
-https://github.com/tfletch3018/Professional-Materials-Portfolio
+[My Portfolio](https://tfletch3018.github.ioProfessional-Materials-Portfolio/)
 
+[My Repo](https://github.com/tfletch3018/Professional-Materials-Portfolio)
 
 ### Design
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
+ Your site should look "polished." Here are a few guidelines on what that means:
 * Mobile-first design
 * Choose a color palette for your site so it doesn't just look like
   the default bootstrap theme or an unstyled HTML site.
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
-
 
 ## Updated GitHub Profile
 Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
@@ -61,7 +61,7 @@ Your GitHub profile must contain at least the following items:
    * Contact information for you and any collaborators
 9. Commit history. Every pinned repository should have at least 20 commits.
   
-   https://github.com/tfletch3018
+[My Github](https://github.com/tfletch3018)
 
 
 ### 3. Updated Resume
@@ -71,13 +71,13 @@ Your resume should include:
 * a technical skills section, with all programming languages and technologies listed
 * 3 of your strongest projects/homework assignments with brief description, languages used, and URL
 
-https://drive.google.com/drive/folders/1-2qstDNd3kGVUXQ7ZOWa-Ry3Ft4kzCaR?usp=sharing
+[My Resume](https://drive.google.com/drive/folders/1-2qstDNd3kGVUXQ7ZOWa-Ry3Ft4kzCaR?usp=sharing)
 
 
 ### 4. Updated LinkedIn
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
-http://linkedin.com/in/tonya-fletcher-733a9450
+[Visit my LinkedIn](http://linkedin.com/in/tonya-fletcher-733a9450)
 
 
 
