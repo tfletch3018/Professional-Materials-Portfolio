@@ -5,11 +5,9 @@ Now that you've built a full-stack web application and have another project to s
 
 ## Homework Requirements
 * Updated portfolio featuring at least 3 examples of student work from either deployed projects of homeworks
-
 * Update GitHub profile with pinned repositories featuring at least 3 examples of student work from either deployed projects of homeworks
 * Updated resume
 * Updated LinkedIn profile
-
 
 ## Instructions
 1. [Updated Portfolio](#updated-portfolio)
@@ -18,7 +16,6 @@ Now that you've built a full-stack web application and have another project to s
 4. [Updated LinkedIn](#updated-linkedin)
 
 Your updated portfolio should:
-
 1. Display your contact information. If you don't want to share your personal email or phone number, use a separate email that you will only use for coding, also known as a developer email and/or a call forwarding service, such as [Google Voice](https://voice.google.com/).
 2. Have links to your GitHub profile and LinkedIn profile
 3. Have a link to a downloadable PDF of your resume
@@ -63,7 +60,6 @@ Your GitHub profile must contain at least the following items:
   
 [My Github](https://github.com/tfletch3018)
 
-
 ### 3. Updated Resume
 Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
 Your resume should include:
@@ -72,7 +68,6 @@ Your resume should include:
 * 3 of your strongest projects/homework assignments with brief description, languages used, and URL
 
 [My Resume](https://drive.google.com/drive/folders/1-2qstDNd3kGVUXQ7ZOWa-Ry3Ft4kzCaR?usp=sharing)
-
 
 ### 4. Updated LinkedIn
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
