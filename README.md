@@ -26,7 +26,7 @@ Your updated portfolio should:
     * Screenshot of the deployed application
 5. Have a polished, mobile-responsive user interface.
 
-[My Portfolio](https://tfletch3018.github.ioProfessional-Materials-Portfolio/)
+[My Portfolio](https://tfletch3018.github.io/Professional-Materials-Portfolio/)
 
 [My Repo](https://github.com/tfletch3018/Professional-Materials-Portfolio)
 
